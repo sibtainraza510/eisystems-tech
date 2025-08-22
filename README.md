@@ -50,5 +50,3 @@ Custom features like current run rate, wickets in hand, overs left, etc.
 
 A pipeline stored in pipe.pkl built in the Jupyter Notebook file.
 
-## 👨‍💻 Author
-Hridyansh Jha
